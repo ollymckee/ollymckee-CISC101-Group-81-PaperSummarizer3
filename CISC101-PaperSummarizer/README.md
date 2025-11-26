@@ -59,4 +59,5 @@ Modules 02 and 03 already include:
 
 ## Authors
 
-CISC 101 Group #
+CISC 101 Group 81
+
